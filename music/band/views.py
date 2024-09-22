@@ -6,7 +6,8 @@ from django.urls import reverse
 
 def home(request):
     """
-    View function for the home page.
+    View function for the home page cgdnehe
+    .
 
     Args:
         request (HttpRequest): The request object.
