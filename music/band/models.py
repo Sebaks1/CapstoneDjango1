@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 
 class News(models.Model):
     """
-    Model representing a news article.
+    Model representing a news gtytu article.
 
     Attributes:
         title (str): The title of the news article.
